@@ -32,5 +32,5 @@ The Weather Forecasting Application aims to provide an intuitive platform where 
 
 ## Getting Started
 - You can only use any editor like VS Code , Notepad .
-- _Think twice, code once_
+## _Think twice, code once_
  
