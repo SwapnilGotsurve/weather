@@ -1,7 +1,7 @@
 # Weather Forecasting Project
 Preview project : https://swapnilgotsurve.github.io/weather/
 
-# Responsive for All devies 
+# Responsive for All Devices 
 // Output in Laptop / Computer
 ![pc interface](https://github.com/user-attachments/assets/3b1b69e1-5e5a-4420-8ecf-e137a4633878)
 
