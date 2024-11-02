@@ -2,11 +2,13 @@
 **Preview project** : https://swapnilgotsurve.github.io/weather/
 ## 1. Executive Summary
 The Weather Forecasting Application aims to provide an intuitive platform where users can access accurate and timely weather information. The app offers features such as real-time temperature, humidity, wind speed, and forecast updates. It targets users who need reliable weather information to plan their daily activities.
-2. Features
-•	Current Weather: Displays real-time temperature, humidity, wind speed, and weather conditions.
-•	Search Functionality: Allows users to search and view weather details for different cities worldwide. I have used the API for fetching the correct weather of any location.
-•	Location Services: Auto-detects the user’s location for displaying local weather information.
-•	Responsive for Mobile and Laptop: You can use on smartphones and computer screens.
+
+## 2. Features
+- **Current Weather** : Displays real-time temperature, humidity, wind speed, and weather conditions.
+- **Search Functionality** : Allows users to search and view weather details for different cities worldwide. I have used the API for fetching the correct weather of any location.
+- **Location Services** : Auto-detects the user’s location for displaying local weather information.
+- **Responsive for Mobile and Laptop**: You can use on smartphones and computer screens.
+
 3. Technologies Used
 •	Figma : Figma for UI/UX prototyping and design . 
 •	HTML: HTML is used for structuring the webpage. Used the Images for make more understanding.
