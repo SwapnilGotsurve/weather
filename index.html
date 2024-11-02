@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Weather App</title>
+
+    <!-- font1 link for title -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <!-- font2 link for title -->
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Acme&family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Gemunu+Libre:wght@200..800&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Righteous&display=swap" rel="stylesheet">
+<!-- css file link -->
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="clear.png" />
+  </head>
+
+  <body>
+    <h2 class="tittle">Weather App</h2>
+    <div class="card">
+      <div class="search">
+        <input type="text" class="inputSearch" placeholder="Enter city name" spellcheck="false" />
+        <button><img src="search.png" alt="" /></button>
+      </div>
+      <div class="error">
+        <p>Invalid city name.</p>
+      </div>
+      <div class="weather">
+        <img src="rain.png" class="weather-icon" alt="" />
+        <!-- show temparature -->
+        <h1 class="temp">22*C</h1>
+        <!-- Show city name -->
+        <h2 class="city">New York</h2>
+        <div class="details">
+          <div class="col">
+            <img src="humidity.png" alt="" />
+            <div>
+              <p class="humidity">50%</p>
+              <p>humidity</p>
+            </div>
+          </div>
+          <div class="col">
+            <img src="wind.png" alt="" />
+            <div>
+              <p class="wind">15 km/h</p>
+              <p>Wind speed</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+   <footer>
+     <br><div class="ctn">
+     <p>@ Developed by Swapnil Gotsurve | All rights are reserved.</p>
+     <div class="logo_box  ">
+      <abbr title="instagram"> <a href="https://www.instagram.com/swapnil__sg/?igsh=MXI2MGwxYzJvaHBwdg%3D%3D" target="_blank"> <i class="fa-brands fa-instagram"></i></a> </abbr>
+      <abbr title="facebook"> <a href="https://www.facebook.com/swapnilgotsurve.swapnilgotsurve" target="_blank"> <i class="fa-brands fa-facebook"></i></a> </abbr>
+      <abbr title="linkedin"> <a href="https://www.linkedin.com/in/swapnil-gotsurve-38a701258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> <i class="fa-brands fa-linkedin"></i></a> </abbr>
+      <abbr title="github"> <a href="https://github.com/SwapnilGotsurve" target="_blank"> <i class="fa-brands fa-github"></i></a> </abbr>
+    </div>
+  </div>
+   </footer>
+  </body>
+  <!-- js file link -->
+  <script src="./script.js"></script>
+      <!-- font awesome link  -->
+      <script src="https://kit.fontawesome.com/ef1a12d4a2.js" crossorigin="anonymous"></script>
+</html>
