@@ -1,4 +1,4 @@
-![mobile interface](https://github.com/user-attachments/assets/05bab397-8298-45e4-8a2d-eb54c6fb4fea)# Weather Forecasting Project
+# Weather Forecasting Project
 Preview project : https://swapnilgotsurve.github.io/weather/
 
 
