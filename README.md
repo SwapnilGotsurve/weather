@@ -6,3 +6,7 @@ Preview project : https://swapnilgotsurve.github.io/weather/
 
 - Output in smartphone / Mobile
 ![mobile interface](https://github.com/user-attachments/assets/28de20f0-ef8f-4e8d-94fd-f5a34079cb5a)
+
+## Getting Started
+- You should only used any editor like VS Code , Notepad .
+ 
