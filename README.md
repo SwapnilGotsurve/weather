@@ -8,5 +8,5 @@ Preview project : https://swapnilgotsurve.github.io/weather/
 ![mobile interface](https://github.com/user-attachments/assets/28de20f0-ef8f-4e8d-94fd-f5a34079cb5a)
 
 ## Getting Started
-- You should only use any editor like VS Code , Notepad .
+- You can only use any editor like VS Code , Notepad .
  
